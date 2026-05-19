@@ -1,0 +1,12 @@
+*.jpg
+*.png
+*.jpeg
+
+
+archive/*
+test/*
+venv/
+__pycache__/
+
+
+*.pth
